@@ -45,4 +45,4 @@ Design tests for this function
 - that returns an array of 4 Point stuctures that define the Rectangle corners. 
 - you will need to use `malloc()` and include `<stdlib.h>`
 
-`Point *corners( Rectangle r );`
+`Point *corners( Rectangle r );` 

@@ -39,7 +39,7 @@ You'll create a student record system that stores and manipulates student inform
 
 As you implement each function, test it to ensure it works correctly:
 - Verify that student information is correctly stored
-- Check that the average calculation is accurate
+- Check that the average calculation is accurate 
 
 ## Tips for Working with Structures
 

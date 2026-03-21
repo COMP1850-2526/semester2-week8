@@ -19,7 +19,7 @@ Rectangle makeRectangle( Point p, float width, float height ){
 float area( Rectangle r ) {
     float a = 0.0;
 
-    return a;
+    return a; 
 }
 
 void shiftRectangle( Rectangle *r, Point dp ) {
