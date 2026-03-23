@@ -1,18 +1,11 @@
-
 #define NAME_LENGTH 50
 #define NUM_MODULES 3
 
-/**
- * Structure to represent a student 
- */
-typedef struct student_record {
+#include "student.h"
+
+typedef struct {
     char name[NAME_LENGTH];  // Student's name
     int id;                  // Student's ID number
     float marks[NUM_MODULES]; // Marks for three modules
-}student; 
+} Student;
 
-/*
- * function headers
- */
-float calculate_average(student);
-void display_student(student);
